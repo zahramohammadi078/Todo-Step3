@@ -11,9 +11,7 @@ function addbtnfun(){
     let newdiv=document.createElement("div")
     newdiv.className="add-box"
     newdiv.innerHTML=todovalue
-    let brelem=document.createElement("br")
     boxitems.append(newdiv)
-    boxitems.append(brelem)
     console.log(newdiv);
 
     }
