@@ -79,6 +79,39 @@
       padding: 6px;
       font-size: 25px;
       /* font-weight: bold; */
+      margin-top: 7px;
   
   
+  }
+
+@media screen and (max-width:500px){
+
+
+
+    .todovalue{
+
+        height: 50%;
+      width: 50vw;
+
+    }
+
+    .box-items{
+
+        display:block;
+
+     
+     }
+
+     .btn{
+        
+        width: 50vw;
+     }
+
+     .add-box{
+
+        margin-top: 8px;
+        width: 50vw;
+
+     }
+
   }
