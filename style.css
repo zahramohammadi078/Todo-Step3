@@ -77,14 +77,23 @@
       border-radius: 10px;
       padding: 6px;
       font-size: 25px;
+<<<<<<< HEAD
       margin-top: 6px;
+=======
+      /* font-weight: bold; */
+      margin-top: 7px;
+>>>>>>> ec755949f4f2de34505d33478bd51a31b0e8ea0d
   
   
   }
 
+<<<<<<< HEAD
   /*--------------------------------------------*/
 
   @media screen and (max-width:500px){
+=======
+@media screen and (max-width:500px){
+>>>>>>> ec755949f4f2de34505d33478bd51a31b0e8ea0d
 
 
 
@@ -114,4 +123,8 @@
 
      }
 
+<<<<<<< HEAD
   }
+=======
+  }
+>>>>>>> ec755949f4f2de34505d33478bd51a31b0e8ea0d
